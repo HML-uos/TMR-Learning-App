@@ -2,6 +2,8 @@ This repository presents the entire code for the TMR Flashcard & Ambience App de
 
 The attached release presents the Android .apk for app installation.
 
+Find the original study version of the app here: https://github.com/HML-uos/tmr-study-app
+
 # Thesis
 The thesis is not yet published, once it's accessible online I will link it here to give this repository more context.
 
