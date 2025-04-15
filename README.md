@@ -21,12 +21,12 @@ User can also opt for continuous replay TMR with three ambiences.
 
 # Deck creation:
 
-![Image](https://github.com/user-attachments/assets/56871f4f-65c8-45e9-88d0-8d72c80197b1)
+![Image](https://github.com/user-attachments/assets/74e94227-a531-4d1d-a9b0-4428196bb449)
 
 # Central overview screen
 
-![Image](https://github.com/user-attachments/assets/72e0abea-477b-4b65-8e20-0ef31e7fdbe6)
+![Image](https://github.com/user-attachments/assets/4b5a125f-6f68-468d-8cb3-4997063bfea1)
 
 # "Ambient" / Continous TMR 
 
-![Image](https://github.com/user-attachments/assets/5245dc96-e12e-40e3-b022-0f9da2cbaa2d)
+![Image](https://github.com/user-attachments/assets/ccffbfcf-2745-4fd8-ab50-0a99187e89aa)
