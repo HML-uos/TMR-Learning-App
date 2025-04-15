@@ -11,7 +11,7 @@ Contact: mariulange@uos.de
 
 # Usage
 
-The app allows the creation of custom flashcard decks. Each flashcard is matched to a unique cue sound, which can be replayed at night. Replay start after a 15 minute elongatable buffer, so that users can fall asleep in peace. 
+The app allows the creation of custom flashcard decks. Each flashcard is matched to a unique cue sound, which can be replayed at night. Replay starts after a 15 minute elongatable buffer, so that users can fall asleep in peace. 
 
 Selecting "Half Replay Mode" selects only half of all flashcards in the deck for replay, to test whether the nightly replay influences learning. 
 
