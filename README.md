@@ -9,6 +9,12 @@ The thesis is not yet published, once it's accessible online I will link it here
 
 Contact: mariulange@uos.de
 
+# Targeted Memory Reactivation
+
+Targeted Memory Reactivation (TMR) is a neuropsychological technique used to enhance memory consolidation. Neuroscientifically based on the Two-Stage Memory System Model (Diekelmann & Born, 2010) it aims to increase natural, neural reactivation of newly encoded memories in short-term storage sites in the hippocampus (HC) during sleep-dependent consolidation. As HC activations determine neural representations in neocortical long-term storage sites during the consolidation process, this in turn boosts the (neural) strength of consolidated (long-term) memories. To achieve this, TMR connects specific memories with cue stimuli during the encoding process, with olfaction as well as audition as prime stimulus modalities chosen in the majority of TMR studies . The same cue stimuli are then represented during sleep. In turn, the consolidation process is boosted and memory performance increases.
+
+Diekelmann & Born, 2010 - The memory function of sleep https://www.nature.com/articles/nrn2762
+
 # Usage
 
 The app allows the creation of custom flashcard decks. Each flashcard is matched to a unique cue sound, which can be replayed at night. Replay starts after a 15 minute elongatable buffer, so that users can fall asleep in peace. 
