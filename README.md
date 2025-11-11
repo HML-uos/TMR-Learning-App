@@ -36,9 +36,7 @@ Once you are ready to go to sleep you can activate the replay via the moon butto
 
 Afterwards start the replay and get ready to fall asleep. The sounds will play after a 30 minute buffer period, which you can extend as you like, so that you can fall alseep in peace. You can always pause the replay, should the sounds wake you up. If they do, pause and lower the volume a bit. Repeat till you have found a suitable volume level. Any volume changes you make will be saved, so that after one night "calibrating" you should be ready to start your own TMR flashcard experimentation!
 
-This box, originally designed for the thesis, gives you a view into how the replay will look on your phone:
-
-![Image](https://github.com/user-attachments/assets/e6e52c5c-8b4a-4b25-80de-82364db0376f)
+![Image](https://github.com/user-attachments/assets/d1e0d157-bf9c-484b-84f1-6b7f04320e59)
 
 # Ambient TMR
 
