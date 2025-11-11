@@ -22,7 +22,7 @@ Get started by clicking on the plus button and create your first deck. The app w
 
 ![Image](https://github.com/user-attachments/assets/74e94227-a531-4d1d-a9b0-4428196bb449)
 
-Usage tip: As your first deck create a deck with only a few placeholder cards without real content and activate "Unique Sounds Only", call it something like "Testdeck". That will be useful in the next step. 
+**Usage tip:** As your first deck create a deck with only a few placeholder cards without real content and activate "Unique Sounds Only", call it something like "Testdeck". That will be useful in the next step. 
 
 Once your deck has been saved, you will find it in the deck list in the central overview screen.
 
